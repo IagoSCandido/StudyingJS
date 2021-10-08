@@ -17,6 +17,11 @@ Ex: <const sum = function(Number1, Number2){            //"Number1" e "Number2" 
 }>
 <sum(20, 98) // "20" e "98" são arguments(argumentos)>
 
+## Aula 03 - Retornando valores dentro de uma função
+Para passar valores de dentro da função para o resto do código, usa-se a palavra reservada return seguida do valor à ser retornado, parando assim a execução da função e mandando o valor para onde a função foi chamada.
+
+
+
 ## Aula 09 - Funções construtoras
 são utilizadas para criar novos objetos e geralmente tem a sua primeira letra maiúscula, todos com as mesmas características que são criadas na função, usando a palavra reservada this para se referir ao objeto sendo criado, por exemplo:
 <function Person(name) {
