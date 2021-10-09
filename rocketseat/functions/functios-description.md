@@ -20,6 +20,9 @@ Ex: <const sum = function(Number1, Number2){            //"Number1" e "Number2" 
 ## Aula 03 - Retornando valores dentro de uma função
 Para passar valores de dentro da função para o resto do código, usa-se a palavra reservada return seguida do valor à ser retornado, parando assim a execução da função e mandando o valor para onde a função foi chamada.
 
+## Aula 04 - Function Scope
+Parâmetros, mesmo se tiverem o mesmo nome que alguma outra variável do seu código, são apenas modificados e persistem no escopo da função.
+Reminder: <let subject // quando se cria um declara uma variavel sem valor, essa variavel automaticamente tem o valor de undefined>
 
 
 ## Aula 09 - Funções construtoras
